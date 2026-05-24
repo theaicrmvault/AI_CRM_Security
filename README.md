@@ -18,14 +18,14 @@ in the terminal with full conversation memory.
 
 ## Tech Stack
 
-| Tool            | Purpose                         |
-|-----------------|---------------------------------|
-| Python 3.11     | Core programming language       |
-| Groq API        | Free LLM inference platform     |
-| llama3-8b-8192  | Language model                  |
-| python-dotenv   | Environment variable management |
-| VS Code         | Development environment         |
-| GitHub          | Version control and hosting     |
+| Tool                  | Purpose                         |
+|-----------------------|---------------------------------|
+| Python 3.11           | Core programming language       |
+| Groq API              | Free LLM inference platform     |
+| llama-3.1-8b-instant  | Language model                  |
+| python-dotenv         | Environment variable management |
+| VS Code               | Development environment         |
+| GitHub                | Version control and hosting     |
 
 ---
 
