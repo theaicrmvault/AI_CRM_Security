@@ -107,11 +107,10 @@ See logs/progress.md for my day by day learning log.
 
 ## Author
 
-Your Name
+Amol Girme
 GitHub: https://github.com/theaicrmvault
 
 ---
 
 ## License
-
 MIT

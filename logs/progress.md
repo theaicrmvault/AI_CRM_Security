@@ -1,15 +1,15 @@
-# Daily Progress Log
+# Progress Log
 
-# Daily Progress Log — Hello LLM
+# Progress Log — Hello LLM
 
 ## Purpose
-Daily record of what I built, learned, and struggled with.
-Committed to GitHub every day as proof of consistent work.
+Record of what I built, learned, and struggled with.
+Committed to GitHub as proof of consistent work.
 
 ---
 
 ## Day 1 — 2026-05-23
-Time spent: X hours
+Time spent: 4 hours
 Goal: Get Groq API working and run first AI response.
 Done:
 - Set up hello-llm project folder in VS Code
@@ -17,31 +17,19 @@ Done:
 - Installed groq and python-dotenv packages
 - Connected to Groq API successfully
 - Received first AI response from llama3-8b-8192 model
-Blocker 1: 
+Blocker: 
 - Device Guard blocked venv pip.exe on local machine.
-Fix: Used python -m pip instead of pip directly.
-Blocker 1: 
 - Got error llama3-8b-8192 model has been dicomissioned
-Fix: changed model to llama-3.1-8b-instant
+Fix: 
+- Used python -m pip instead of pip directly. 
+- changed model to llama-3.1-8b-instant
 Key learning: API keys must never be written in code.
               Always use environment variables.
               Do not use deperecated LLM.
-Tomorrow: dig deeper into the build.
 
 ---
 
 ## Day 2 — 2026-MM-DD
-Time spent:
-Goal:
-Done:
-Blocker:
-Fix:
-Key learning:
-Tomorrow:
-
----
-
-## Day 3 — 2026-MM-DD
 Time spent:
 Goal:
 Done:
