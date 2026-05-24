@@ -1,8 +1,6 @@
 # Python dependencies for Hello LLM
 # Install with: python -m pip install -r requirements.txt
-
 # Groq official Python SDK — handles all API communication
 groq>=0.9.0
-
 # Loads .env file variables into os.environ automatically
 python-dotenv>=1.0.0
